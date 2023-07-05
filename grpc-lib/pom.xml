@@ -10,7 +10,7 @@
 
     <properties>
         <!--grpc版本号-->
-        <grpc.version>1.10.0</grpc.version>
+        <grpc.version>1.53.0</grpc.version>
         <!--protobuf 版本号-->
         <protobuf.version>3.0.0</protobuf.version>
     </properties>
